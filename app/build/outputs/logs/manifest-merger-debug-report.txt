@@ -1,0 +1,122 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\AudioPlayer-master\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\AudioPlayer-master\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\AudioPlayer-master\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\AudioPlayer-master\app\src\main\AndroidManifest.xml:2:1-32:12
+MERGED from [com.android.support:design:23.4.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\design-23.4.0.aar\cddbff6c4bfd5e8b8fb8fde7f0e95739\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\3eb621b269d0661ded9cae2b909cd8c2\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:recyclerview-v7:23.4.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-23.4.0.aar\6d232584cb0ca900703805117ab108c0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:23.3.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\cardview-v7-23.3.0.aar\774e7b75755808f168bda80d25a75ecb\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\2898024dae93f5cbf22c6fc87dcd3655\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\167cb87b6654dee0045db37666f5666b\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\4ecca35ccaf5ccf4532fb2e1a8a0ee06\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\AudioPlayer-master\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\AudioPlayer-master\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\AudioPlayer-master\app\src\main\AndroidManifest.xml:2:1-32:12
+	package
+		ADDED from C:\AudioPlayer-master\app\src\main\AndroidManifest.xml:3:5-49
+		INJECTED from C:\AudioPlayer-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\AudioPlayer-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\AudioPlayer-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\AudioPlayer-master\app\src\main\AndroidManifest.xml:2:1-32:12
+		INJECTED from C:\AudioPlayer-master\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\AudioPlayer-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\AudioPlayer-master\app\src\main\AndroidManifest.xml:2:1-32:12
+		INJECTED from C:\AudioPlayer-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\AudioPlayer-master\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\AudioPlayer-master\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from C:\AudioPlayer-master\app\src\main\AndroidManifest.xml:5:22-64
+permission#android.permission.MEDIA_CONTENT_CONTROL
+ADDED from C:\AudioPlayer-master\app\src\main\AndroidManifest.xml:7:5-75
+	android:name
+		ADDED from C:\AudioPlayer-master\app\src\main\AndroidManifest.xml:7:17-72
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\AudioPlayer-master\app\src\main\AndroidManifest.xml:9:5-75
+	android:name
+		ADDED from C:\AudioPlayer-master\app\src\main\AndroidManifest.xml:9:22-72
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\AudioPlayer-master\app\src\main\AndroidManifest.xml:10:5-80
+	android:name
+		ADDED from C:\AudioPlayer-master\app\src\main\AndroidManifest.xml:10:22-77
+application
+ADDED from C:\AudioPlayer-master\app\src\main\AndroidManifest.xml:12:5-30:19
+MERGED from [com.android.support:design:23.4.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\design-23.4.0.aar\cddbff6c4bfd5e8b8fb8fde7f0e95739\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:23.4.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\design-23.4.0.aar\cddbff6c4bfd5e8b8fb8fde7f0e95739\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\3eb621b269d0661ded9cae2b909cd8c2\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\3eb621b269d0661ded9cae2b909cd8c2\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:cardview-v7:23.3.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\cardview-v7-23.3.0.aar\774e7b75755808f168bda80d25a75ecb\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:cardview-v7:23.3.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\cardview-v7-23.3.0.aar\774e7b75755808f168bda80d25a75ecb\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\2898024dae93f5cbf22c6fc87dcd3655\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\2898024dae93f5cbf22c6fc87dcd3655\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\167cb87b6654dee0045db37666f5666b\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\167cb87b6654dee0045db37666f5666b\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\4ecca35ccaf5ccf4532fb2e1a8a0ee06\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\4ecca35ccaf5ccf4532fb2e1a8a0ee06\AndroidManifest.xml:22:5-20
+	android:supportsRtl
+		ADDED from C:\AudioPlayer-master\app\src\main\AndroidManifest.xml:16:9-35
+	android:label
+		ADDED from C:\AudioPlayer-master\app\src\main\AndroidManifest.xml:15:9-41
+	android:icon
+		ADDED from C:\AudioPlayer-master\app\src\main\AndroidManifest.xml:14:9-43
+	android:allowBackup
+		ADDED from C:\AudioPlayer-master\app\src\main\AndroidManifest.xml:13:9-35
+	android:theme
+		ADDED from C:\AudioPlayer-master\app\src\main\AndroidManifest.xml:17:9-40
+service#com.valdioveliu.valdio.audioplayer.MediaPlayerService
+ADDED from C:\AudioPlayer-master\app\src\main\AndroidManifest.xml:18:9-55
+	android:name
+		ADDED from C:\AudioPlayer-master\app\src\main\AndroidManifest.xml:18:18-52
+activity#com.valdioveliu.valdio.audioplayer.MainActivity
+ADDED from C:\AudioPlayer-master\app\src\main\AndroidManifest.xml:20:9-29:20
+	android:label
+		ADDED from C:\AudioPlayer-master\app\src\main\AndroidManifest.xml:22:13-45
+	android:theme
+		ADDED from C:\AudioPlayer-master\app\src\main\AndroidManifest.xml:23:13-56
+	android:name
+		ADDED from C:\AudioPlayer-master\app\src\main\AndroidManifest.xml:21:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\AudioPlayer-master\app\src\main\AndroidManifest.xml:24:13-28:29
+action#android.intent.action.MAIN
+ADDED from C:\AudioPlayer-master\app\src\main\AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from C:\AudioPlayer-master\app\src\main\AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\AudioPlayer-master\app\src\main\AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from C:\AudioPlayer-master\app\src\main\AndroidManifest.xml:27:27-74
+uses-sdk
+INJECTED from C:\AudioPlayer-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\AudioPlayer-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\AudioPlayer-master\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:23.4.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\design-23.4.0.aar\cddbff6c4bfd5e8b8fb8fde7f0e95739\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:23.4.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\design-23.4.0.aar\cddbff6c4bfd5e8b8fb8fde7f0e95739\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\3eb621b269d0661ded9cae2b909cd8c2\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\3eb621b269d0661ded9cae2b909cd8c2\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:recyclerview-v7:23.4.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-23.4.0.aar\6d232584cb0ca900703805117ab108c0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.4.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-23.4.0.aar\6d232584cb0ca900703805117ab108c0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:23.3.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\cardview-v7-23.3.0.aar\774e7b75755808f168bda80d25a75ecb\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:23.3.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\cardview-v7-23.3.0.aar\774e7b75755808f168bda80d25a75ecb\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\2898024dae93f5cbf22c6fc87dcd3655\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\2898024dae93f5cbf22c6fc87dcd3655\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\167cb87b6654dee0045db37666f5666b\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\167cb87b6654dee0045db37666f5666b\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\4ecca35ccaf5ccf4532fb2e1a8a0ee06\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\4ecca35ccaf5ccf4532fb2e1a8a0ee06\AndroidManifest.xml:20:5-43
+INJECTED from C:\AudioPlayer-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\AudioPlayer-master\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\3eb621b269d0661ded9cae2b909cd8c2\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\AudioPlayer-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\AudioPlayer-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\AudioPlayer-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\AudioPlayer-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\AudioPlayer-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\AudioPlayer-master\app\src\main\AndroidManifest.xml
